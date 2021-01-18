@@ -6,7 +6,7 @@ import Layout from "../components/layout"
 const IndexPage = () => (
   <Layout>
     <h1>"Welcome to my future portfolio!" - Thomas</h1>
-    <p><strong>Current Status</strong>: Finishing up boot-camp, and working on my final project. Here is a bare bones page with links to my previous projects!</p>
+    <p><strong>Current Status</strong>: Finishing up boot-camp, and working on my final project. Thought I would at least make a page with links to my previous projects.</p>
     <p><strong>Contact:</strong> tcgilbert94@gmail.com</p>
     <h3>Projects</h3>
     <ul>
