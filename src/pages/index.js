@@ -11,7 +11,7 @@ const IndexPage = () => (
     <h3>Projects</h3>
     <ul>
       <li>
-        <strong>Kaleidoscope Budgeting App</strong>
+        <strong>Kaleidoscope Budgeting App: MERN Stack</strong>
         <ul>
           <li>
             Deployment Link -->{" "}
@@ -43,7 +43,7 @@ const IndexPage = () => (
         </ul>
       </li>
       <li>
-        <strong>Think-Ewe Express App</strong>
+        <strong>Think-Ewe Social Network: PERN Stack</strong>
         <ul>
           <li>
             Deployment Link -->{" "}
@@ -55,7 +55,10 @@ const IndexPage = () => (
             </a>
           </li>
           <li>
-            <a target="_blank" href="https://github.com/tcgilbert/think-ewe">Github Repo</a>
+            <a target="_blank" href="https://github.com/tcgilbert/think_ewe_front">Github Front</a>
+          </li>
+          <li>
+            <a target="_blank" href="https://github.com/tcgilbert/think_ewe_back">Github Back</a>
           </li>
         </ul>
       </li>
